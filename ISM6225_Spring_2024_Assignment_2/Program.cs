@@ -385,7 +385,7 @@ namespace ISM6225_Spring_2024_Assignment_2
         {
             try
             {
-                int n = nums.Length;  // Get the length of the input array
+                int n = nums.Length;  // Get length of the input array
                 if (n < 2)
                     return 0;
 
